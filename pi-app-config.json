@@ -1,0 +1,17 @@
+{
+  "appName": "My Family",
+  "appDescription": "Records memories, shares moments, helps to plan activities and unites family together. Trace your family tree.",
+  "appDomain": "askl.pi",
+  "appUrl": "https://askl.pi",
+  "piApiVersion": "2.0",
+  "payment": {
+    "enabled": true,
+    "currency": "PI",
+    "recipientWallet": "GC444XDJDRRCYJTJZFEI34CWFHXT2R742XYJ4JO2FVPISBJ5PRFFQY5Q"
+  },
+  "permissions": ["payments", "username"],
+  "categories": ["social", "lifestyle", "family"],
+  "screenshots": ["/screenshots/screenshot-1.png", "/screenshots/screenshot-2.png"],
+  "network": "mainnet",
+  "sandbox": false
+}
